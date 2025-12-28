@@ -1,0 +1,7 @@
+{
+  "name": "TemplateFlow - Premium Marketplace",
+  "description": "A clean, dark-mode friendly template marketplace for landing pages, blogs, and e-commerce themes with AI-powered description generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
